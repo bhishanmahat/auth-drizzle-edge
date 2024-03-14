@@ -1,0 +1,13 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1706865218742,
+      "tag": "0000_amazing_blink",
+      "breakpoints": true
+    }
+  ]
+}
